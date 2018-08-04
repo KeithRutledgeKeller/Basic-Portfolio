@@ -1,0 +1,42 @@
+.Image{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;    
+}
+
+.Image1{
+    margin: 1px;
+    padding: 15px;
+    width: 15%;
+    float: left;
+}
+
+.Image2{
+    margin: 1px;
+    padding: 15px;
+    width: 15%;
+    float: left;
+}
+
+.Image3{
+    clear: both;
+    margin: 1px;
+    padding: 15px;
+    width: 15%;
+    float: left;
+}
+
+.Image4{
+    margin: 1px;
+    padding: 15px;
+    width: 15%;
+    float: left;
+
+}
+
+.Image5{
+    clear: both;
+    padding: 15px;
+    width: 100%;
+    float: left;
+}
